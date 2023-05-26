@@ -13,6 +13,6 @@ The code can be used as an example to automate data extraction on websites.
 
 For use the Selenium library:
 
-3. pip install selenium
+3. `pip install selenium`
 
 
